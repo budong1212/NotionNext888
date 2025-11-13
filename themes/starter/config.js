@@ -10,8 +10,8 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '贝思致力成为您最最有力的工具，保证无广告，无后门', // 英雄区文字
-  STARTER_HERO_TITLE_2: '通过这个软件、成倍放大您的工作价值', // 英雄区文字
+  STARTER_HERO_TITLE_1: '贝思致力成为您最最有力的工具', // 英雄区文字
+  STARTER_HERO_TITLE_2: '通过这个软件、成倍缩小您的工作时间', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '软件下载', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
