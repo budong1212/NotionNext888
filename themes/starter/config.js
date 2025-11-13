@@ -34,17 +34,17 @@ const CONFIG = {
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特性', // 特性
-  STARTER_FEATURE_TEXT_1: '贝思的主要特性', // 特性
+  STARTER_FEATURE_TEXT_1: '贝思软件的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
-    '贝思的愿景是帮助您简单、无感知地稳定地实现你的要求，放大您工作中的价值。 ', // 特性
+    '贝思软件的愿景是帮助您简单使用、无感知地稳定地实现你的要求，放大您工作中的价值。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '软件稀有实现少数人需求', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '研发出只有少数人真正有需求的软件', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '多种需求融入一个软件', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '数百种软件功能,适用于不同办公场景，工作、技术、娱乐功能总有一款适合你', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
@@ -74,7 +74,7 @@ const CONFIG = {
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
-  STARTER_PRICING_TITLE: '价格表',
+  STARTER_PRICING_TITLE: 'VIP',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
     '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
